@@ -1,0 +1,1 @@
+This program is for the To-Do List on "The Odin Project". It is meant to bring all our knowledge together when learning webpack.
